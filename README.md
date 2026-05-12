@@ -28,7 +28,7 @@ sudo apt install python3.11 python3.11-venv python3-pip -y
 ```
 Шаг 3. Скачай проект с GitHub
 ```
-git clone https://github.com/TikhomirPechinin/profsociety-bot-minimal.git
+git clone https://github.com/TikhomirPechinin/KonsMin.git
 cd profsociety-bot-minimal
 ```
 Шаг 4. Создай виртуальное окружение
